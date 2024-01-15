@@ -1,0 +1,14 @@
+C:\Users\juant\OneDrive\Escritorio\Dorset\7 - OOP\FileDemo\FileDemoReader\bin\Debug\net7.0\FileDemoReader.exe
+C:\Users\juant\OneDrive\Escritorio\Dorset\7 - OOP\FileDemo\FileDemoReader\bin\Debug\net7.0\FileDemoReader.deps.json
+C:\Users\juant\OneDrive\Escritorio\Dorset\7 - OOP\FileDemo\FileDemoReader\bin\Debug\net7.0\FileDemoReader.runtimeconfig.json
+C:\Users\juant\OneDrive\Escritorio\Dorset\7 - OOP\FileDemo\FileDemoReader\bin\Debug\net7.0\FileDemoReader.dll
+C:\Users\juant\OneDrive\Escritorio\Dorset\7 - OOP\FileDemo\FileDemoReader\bin\Debug\net7.0\FileDemoReader.pdb
+C:\Users\juant\OneDrive\Escritorio\Dorset\7 - OOP\FileDemo\FileDemoReader\obj\Debug\net7.0\FileDemoReader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juant\OneDrive\Escritorio\Dorset\7 - OOP\FileDemo\FileDemoReader\obj\Debug\net7.0\FileDemoReader.AssemblyInfoInputs.cache
+C:\Users\juant\OneDrive\Escritorio\Dorset\7 - OOP\FileDemo\FileDemoReader\obj\Debug\net7.0\FileDemoReader.AssemblyInfo.cs
+C:\Users\juant\OneDrive\Escritorio\Dorset\7 - OOP\FileDemo\FileDemoReader\obj\Debug\net7.0\FileDemoReader.csproj.CoreCompileInputs.cache
+C:\Users\juant\OneDrive\Escritorio\Dorset\7 - OOP\FileDemo\FileDemoReader\obj\Debug\net7.0\FileDemoReader.dll
+C:\Users\juant\OneDrive\Escritorio\Dorset\7 - OOP\FileDemo\FileDemoReader\obj\Debug\net7.0\refint\FileDemoReader.dll
+C:\Users\juant\OneDrive\Escritorio\Dorset\7 - OOP\FileDemo\FileDemoReader\obj\Debug\net7.0\FileDemoReader.pdb
+C:\Users\juant\OneDrive\Escritorio\Dorset\7 - OOP\FileDemo\FileDemoReader\obj\Debug\net7.0\FileDemoReader.genruntimeconfig.cache
+C:\Users\juant\OneDrive\Escritorio\Dorset\7 - OOP\FileDemo\FileDemoReader\obj\Debug\net7.0\ref\FileDemoReader.dll

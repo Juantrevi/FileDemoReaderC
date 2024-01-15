@@ -1,0 +1,14 @@
+C:\Users\juant\OneDrive\Escritorio\Dorset\7 - OOP\FileDemo\FileDemo\bin\Debug\net7.0\FileDemo.exe
+C:\Users\juant\OneDrive\Escritorio\Dorset\7 - OOP\FileDemo\FileDemo\bin\Debug\net7.0\FileDemo.deps.json
+C:\Users\juant\OneDrive\Escritorio\Dorset\7 - OOP\FileDemo\FileDemo\bin\Debug\net7.0\FileDemo.runtimeconfig.json
+C:\Users\juant\OneDrive\Escritorio\Dorset\7 - OOP\FileDemo\FileDemo\bin\Debug\net7.0\FileDemo.dll
+C:\Users\juant\OneDrive\Escritorio\Dorset\7 - OOP\FileDemo\FileDemo\bin\Debug\net7.0\FileDemo.pdb
+C:\Users\juant\OneDrive\Escritorio\Dorset\7 - OOP\FileDemo\FileDemo\obj\Debug\net7.0\FileDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juant\OneDrive\Escritorio\Dorset\7 - OOP\FileDemo\FileDemo\obj\Debug\net7.0\FileDemo.AssemblyInfoInputs.cache
+C:\Users\juant\OneDrive\Escritorio\Dorset\7 - OOP\FileDemo\FileDemo\obj\Debug\net7.0\FileDemo.AssemblyInfo.cs
+C:\Users\juant\OneDrive\Escritorio\Dorset\7 - OOP\FileDemo\FileDemo\obj\Debug\net7.0\FileDemo.csproj.CoreCompileInputs.cache
+C:\Users\juant\OneDrive\Escritorio\Dorset\7 - OOP\FileDemo\FileDemo\obj\Debug\net7.0\FileDemo.dll
+C:\Users\juant\OneDrive\Escritorio\Dorset\7 - OOP\FileDemo\FileDemo\obj\Debug\net7.0\refint\FileDemo.dll
+C:\Users\juant\OneDrive\Escritorio\Dorset\7 - OOP\FileDemo\FileDemo\obj\Debug\net7.0\FileDemo.pdb
+C:\Users\juant\OneDrive\Escritorio\Dorset\7 - OOP\FileDemo\FileDemo\obj\Debug\net7.0\FileDemo.genruntimeconfig.cache
+C:\Users\juant\OneDrive\Escritorio\Dorset\7 - OOP\FileDemo\FileDemo\obj\Debug\net7.0\ref\FileDemo.dll
